@@ -10,6 +10,7 @@ sudo gem install jekyll bundler
 To Serve
 
 ```
+cd docs/
 bundle exec jekyll serve
 ```
 
